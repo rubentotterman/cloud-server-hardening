@@ -105,10 +105,8 @@ Ruben
 
 Screenshots
 
-
-Example:
-[Webpage](project-screenshots/nginx_index.png)
-[UFW Status](project-screenshots/nginx.index.png)
+![NGINX](/project-screenshots/nginx.index.png)
+![UFW Status](/project-screenshots/status_ufw.png)
 
 ---
 
