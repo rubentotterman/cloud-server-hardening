@@ -107,7 +107,8 @@ Screenshots
 
 
 Example:
-[Webpage]()
+[Webpage](project-screenshots/nginx_index.png)
+[UFW Status](project-screenshots/status_ufw.png)
 
 ---
 
