@@ -107,8 +107,7 @@ Screenshots
 
 
 Example:
-- Screenshot 1: Custom Nginx Landing Page
-- Screenshot 2: UFW status showing ports 80 and 2222
+[Webpage]()
 
 ---
 
